@@ -1,0 +1,15 @@
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\obj\Debug\net7.0\komodoProjectCode.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\obj\Debug\net7.0\komodoProjectCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\obj\Debug\net7.0\komodoProjectCode.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\obj\Debug\net7.0\komodoProjectCode.AssemblyInfo.cs
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\obj\Debug\net7.0\komodoProjectCode.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\bin\Debug\net7.0\komodoProjectCode.exe
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\bin\Debug\net7.0\komodoProjectCode.deps.json
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\bin\Debug\net7.0\komodoProjectCode.runtimeconfig.json
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\bin\Debug\net7.0\komodoProjectCode.dll
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\bin\Debug\net7.0\komodoProjectCode.pdb
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\obj\Debug\net7.0\komodoProjectCode.dll
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\obj\Debug\net7.0\refint\komodoProjectCode.dll
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\obj\Debug\net7.0\komodoProjectCode.pdb
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\obj\Debug\net7.0\komodoProjectCode.genruntimeconfig.cache
+C:\Users\alexa\Documents\codingFoundations\dotnetFoundations\komodoProject\obj\Debug\net7.0\ref\komodoProjectCode.dll
